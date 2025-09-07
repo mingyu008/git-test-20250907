@@ -7,7 +7,7 @@ function App2() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. 2번째 파일 1234
+          Edit <code>src/App.js</code> and save to reload. 2번째 파일 123 456
         </p>
         <a
           className="App-link"
