@@ -7,7 +7,7 @@ function App2() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. 2번째 파일 123 456 789 034 567 890 1234 5
+          Edit <code>src/App.js</code> and save to reload. 2번째 파일 123 456 789 034 567 890 1234 56
         </p>
         <a
           className="App-link"
