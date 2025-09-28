@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload. 123 456 789
           123 456 78
           20250928 01 stg
+          20250928 02 stg
         </p>
         <a
           className="App-link"
